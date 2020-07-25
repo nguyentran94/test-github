@@ -25,6 +25,7 @@
 				<th>Email</th>
 				<th>Birthday</th>
 				<th>Role_ID</th>
+				<th>Password</th>
 				<th>Edit</th>
 				<th>Delete</th>
 				
